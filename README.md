@@ -2,3 +2,5 @@ This code is a modified example from Mathworks. I added Doppler spectrum channel
 
 DLSCHAndPDSCHTransmitAndReceiveProcessingChainExample.mlx contains a live editor
 Copy_DLSCHAndPDSCHTransmitAndReceiveProcessingChainExample.mlx contains only code with loops to create BER vs SNR graphs.
+
+Source of the original code: https://uk.mathworks.com/help/5g/gs/dl-sch-and-pdsch-transmit-and-receive-processing-chain.html
